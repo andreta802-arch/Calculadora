@@ -68,6 +68,7 @@
             // 
             // btn_mais_ou_menos
             // 
+            btn_mais_ou_menos.Font = new Font("Segoe UI", 19F);
             btn_mais_ou_menos.Location = new Point(23, 552);
             btn_mais_ou_menos.Name = "btn_mais_ou_menos";
             btn_mais_ou_menos.Size = new Size(75, 81);
@@ -77,6 +78,7 @@
             // 
             // btn_1
             // 
+            btn_1.Font = new Font("Segoe UI", 20F);
             btn_1.Location = new Point(23, 465);
             btn_1.Name = "btn_1";
             btn_1.Size = new Size(75, 81);
@@ -87,6 +89,7 @@
             // 
             // btn_4
             // 
+            btn_4.Font = new Font("Segoe UI", 20F);
             btn_4.Location = new Point(23, 378);
             btn_4.Name = "btn_4";
             btn_4.Size = new Size(75, 81);
@@ -97,6 +100,7 @@
             // 
             // btn_7
             // 
+            btn_7.Font = new Font("Segoe UI", 20F);
             btn_7.Location = new Point(23, 291);
             btn_7.Name = "btn_7";
             btn_7.Size = new Size(75, 81);
@@ -107,6 +111,7 @@
             // 
             // btn_excluir
             // 
+            btn_excluir.Font = new Font("Segoe UI", 20F);
             btn_excluir.ForeColor = Color.Red;
             btn_excluir.Location = new Point(23, 204);
             btn_excluir.Name = "btn_excluir";
@@ -118,6 +123,7 @@
             // 
             // btn_parenteses
             // 
+            btn_parenteses.Font = new Font("Segoe UI", 20F);
             btn_parenteses.Location = new Point(104, 204);
             btn_parenteses.Name = "btn_parenteses";
             btn_parenteses.Size = new Size(75, 81);
@@ -128,6 +134,7 @@
             // 
             // btn_8
             // 
+            btn_8.Font = new Font("Segoe UI", 20F);
             btn_8.Location = new Point(104, 291);
             btn_8.Name = "btn_8";
             btn_8.Size = new Size(75, 81);
@@ -138,6 +145,7 @@
             // 
             // btn_5
             // 
+            btn_5.Font = new Font("Segoe UI", 20F);
             btn_5.Location = new Point(104, 378);
             btn_5.Name = "btn_5";
             btn_5.Size = new Size(75, 81);
@@ -148,6 +156,7 @@
             // 
             // btn_2
             // 
+            btn_2.Font = new Font("Segoe UI", 20F);
             btn_2.Location = new Point(104, 465);
             btn_2.Name = "btn_2";
             btn_2.Size = new Size(75, 81);
@@ -158,6 +167,7 @@
             // 
             // btn_porcentagem
             // 
+            btn_porcentagem.Font = new Font("Segoe UI", 20F);
             btn_porcentagem.Location = new Point(185, 204);
             btn_porcentagem.Name = "btn_porcentagem";
             btn_porcentagem.Size = new Size(75, 81);
@@ -168,6 +178,7 @@
             // 
             // btn_9
             // 
+            btn_9.Font = new Font("Segoe UI", 20F);
             btn_9.Location = new Point(185, 291);
             btn_9.Name = "btn_9";
             btn_9.Size = new Size(75, 81);
@@ -178,6 +189,7 @@
             // 
             // btn_6
             // 
+            btn_6.Font = new Font("Segoe UI", 20F);
             btn_6.Location = new Point(185, 378);
             btn_6.Name = "btn_6";
             btn_6.Size = new Size(75, 81);
@@ -188,6 +200,7 @@
             // 
             // btn_3
             // 
+            btn_3.Font = new Font("Segoe UI", 20F);
             btn_3.Location = new Point(185, 465);
             btn_3.Name = "btn_3";
             btn_3.Size = new Size(75, 81);
@@ -198,6 +211,7 @@
             // 
             // btn_virgula
             // 
+            btn_virgula.Font = new Font("Segoe UI", 20F);
             btn_virgula.Location = new Point(185, 552);
             btn_virgula.Name = "btn_virgula";
             btn_virgula.Size = new Size(75, 81);
@@ -208,6 +222,7 @@
             // 
             // btn_divisão
             // 
+            btn_divisão.Font = new Font("Segoe UI", 20F);
             btn_divisão.Location = new Point(298, 204);
             btn_divisão.Name = "btn_divisão";
             btn_divisão.Size = new Size(75, 81);
@@ -218,6 +233,7 @@
             // 
             // btn_multiplicação
             // 
+            btn_multiplicação.Font = new Font("Segoe UI", 20F);
             btn_multiplicação.Location = new Point(298, 291);
             btn_multiplicação.Name = "btn_multiplicação";
             btn_multiplicação.Size = new Size(75, 81);
@@ -228,6 +244,7 @@
             // 
             // btn_subtração
             // 
+            btn_subtração.Font = new Font("Segoe UI", 20F);
             btn_subtração.Location = new Point(298, 378);
             btn_subtração.Name = "btn_subtração";
             btn_subtração.Size = new Size(75, 81);
@@ -238,6 +255,7 @@
             // 
             // btn_somatoria
             // 
+            btn_somatoria.Font = new Font("Segoe UI", 20F);
             btn_somatoria.Location = new Point(298, 465);
             btn_somatoria.Name = "btn_somatoria";
             btn_somatoria.Size = new Size(75, 81);
@@ -248,6 +266,7 @@
             // 
             // btn_0
             // 
+            btn_0.Font = new Font("Segoe UI", 20F);
             btn_0.Location = new Point(104, 552);
             btn_0.Name = "btn_0";
             btn_0.Size = new Size(75, 81);
@@ -258,6 +277,7 @@
             // 
             // btn_resultado
             // 
+            btn_resultado.Font = new Font("Segoe UI", 20F);
             btn_resultado.Location = new Point(298, 552);
             btn_resultado.Name = "btn_resultado";
             btn_resultado.Size = new Size(75, 81);
