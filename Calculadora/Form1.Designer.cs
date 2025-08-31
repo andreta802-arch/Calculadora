@@ -54,6 +54,7 @@
             // Display
             // 
             Display.AutoSize = true;
+            Display.BorderStyle = BorderStyle.Fixed3D;
             Display.FlatStyle = FlatStyle.Popup;
             Display.Font = new Font("Segoe UI", 50F);
             Display.Location = new Point(11, 24);
