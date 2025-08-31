@@ -11,6 +11,10 @@
 [Ll]og/
 *.log
 
+# Ignorar arquivos AssemblyInfo gerados automaticamente
+**/obj/**/*.AssemblyInfo.cs
+**/obj/**/*.AssemblyInfoInputs.cache
+
 # NuGet Packages
 *.nupkg
 # The packages folder can be ignored if you use Package Restore
